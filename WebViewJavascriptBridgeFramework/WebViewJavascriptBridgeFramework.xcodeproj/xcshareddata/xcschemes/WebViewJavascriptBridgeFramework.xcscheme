@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "56F1EC6C1FF40F0100FB53CC"
-               BuildableName = "WebViewJavascriptBrdigeFramework.framework"
-               BlueprintName = "WebViewJavascriptBrdigeFramework"
-               ReferencedContainer = "container:WebViewJavascriptBrdigeFramework.xcodeproj">
+               BlueprintIdentifier = "56F1EC921FF411FF00FB53CC"
+               BuildableName = "WebViewJavascriptBridgeFramework.framework"
+               BlueprintName = "WebViewJavascriptBridgeFramework"
+               ReferencedContainer = "container:WebViewJavascriptBridgeFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,10 +47,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56F1EC6C1FF40F0100FB53CC"
-            BuildableName = "WebViewJavascriptBrdigeFramework.framework"
-            BlueprintName = "WebViewJavascriptBrdigeFramework"
-            ReferencedContainer = "container:WebViewJavascriptBrdigeFramework.xcodeproj">
+            BlueprintIdentifier = "56F1EC921FF411FF00FB53CC"
+            BuildableName = "WebViewJavascriptBridgeFramework.framework"
+            BlueprintName = "WebViewJavascriptBridgeFramework"
+            ReferencedContainer = "container:WebViewJavascriptBridgeFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +65,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "56F1EC6C1FF40F0100FB53CC"
-            BuildableName = "WebViewJavascriptBrdigeFramework.framework"
-            BlueprintName = "WebViewJavascriptBrdigeFramework"
-            ReferencedContainer = "container:WebViewJavascriptBrdigeFramework.xcodeproj">
+            BlueprintIdentifier = "56F1EC921FF411FF00FB53CC"
+            BuildableName = "WebViewJavascriptBridgeFramework.framework"
+            BlueprintName = "WebViewJavascriptBridgeFramework"
+            ReferencedContainer = "container:WebViewJavascriptBridgeFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
