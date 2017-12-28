@@ -16,7 +16,7 @@ FOUNDATION_EXPORT const unsigned char WebViewJavascriptBridgeFrameworkVersionStr
 
 // In this header, you should import all the public headers of your framework using statements like #import <WebViewJavascriptBridgeFramework/PublicHeader.h>
 
-#include <WebViewJavascriptBridge/WebViewJavascriptBridge_JS.h>
-#include <WebViewJavascriptBridge/WebViewJavascriptBridgeBase.h>
-#include <WebViewJavascriptBridge/WebViewJavascriptBridge.h>
-#include <WebViewJavascriptBridge/WKWebViewJavascriptBridge.h>
+#include <WebViewJavascriptBridgeFramework/WebViewJavascriptBridge_JS.h>
+#include <WebViewJavascriptBridgeFramework/WebViewJavascriptBridgeBase.h>
+#include <WebViewJavascriptBridgeFramework/WebViewJavascriptBridge.h>
+#include <WebViewJavascriptBridgeFramework/WKWebViewJavascriptBridge.h>
